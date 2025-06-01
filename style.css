@@ -19,3 +19,21 @@ button {
   margin: 5px;
   cursor: pointer;
 }
+
+.btn-vermelho {
+  background-color: red;
+  color: white;
+  border: none;
+}
+
+.btn-azul {
+  background-color: blue;
+  color: white;
+  border: none;
+}
+
+.btn-verde {
+  background-color: green;
+  color: white;
+  border: none;
+}
