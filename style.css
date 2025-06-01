@@ -21,19 +21,19 @@ button {
 }
 
 .btn-vermelho {
-  background-color: rgb(236, 218, 55); 
+  background-color: red;
   color: white;
   border: none;
 }
 
 .btn-azul {
-  background-color: rgb(223, 36, 114);
+  background-color: blue;
   color: white;
   border: none;
 }
 
 .btn-verde {
-  background-color: rgb(231, 168, 50);
+  background-color: green;
   color: white;
   border: none;
 }
